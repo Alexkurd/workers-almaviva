@@ -1,0 +1,12 @@
+name = "alma"
+compatibility_date = "2023-08-12"
+
+kv_namespaces = [
+  { binding = "KV", id = "your_KV_ID" }
+]
+
+
+[vars]
+email = "your@email.com"
+password = "yourpassword"
+pushURL = "https://mypushurl/?q="
